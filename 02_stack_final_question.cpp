@@ -1,7 +1,6 @@
 #include<iostream>
 
 
-// Intellisense(kod tamamlama) iþlemi için ctl+space a bas
 
 
 using namespace std;
